@@ -32,6 +32,3 @@ channel = 8
 print(luna * meg) 
 dog = 288
 print(dog- channel)
-
-
-print("laysa cabeça de pika")
