@@ -20,3 +20,18 @@ lista = [1,2,3,4,5,6,7]
 
 #metodos
 lista_invertida = lista.reverse()
+
+
+
+
+luna = 12
+meg = 24
+channel = 8
+
+
+print(luna * meg) 
+dog = 288
+print(dog- channel)
+
+
+print("laysa cabeça de pika")
